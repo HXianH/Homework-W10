@@ -1,0 +1,391 @@
+state,year,blood_type,donations
+Johor,2019,a,10277
+Johor,2019,ab,2128
+Johor,2019,all,41261
+Johor,2019,b,11043
+Johor,2019,o,17813
+Johor,2020,a,9924
+Johor,2020,ab,2093
+Johor,2020,all,40705
+Johor,2020,b,10996
+Johor,2020,o,17692
+Johor,2021,a,9745
+Johor,2021,ab,2162
+Johor,2021,all,40409
+Johor,2021,b,10870
+Johor,2021,o,17632
+Johor,2022,a,10550
+Johor,2022,ab,2144
+Johor,2022,all,42832
+Johor,2022,b,11570
+Johor,2022,o,18568
+Johor,2023,a,10623
+Johor,2023,ab,2295
+Johor,2023,all,43706
+Johor,2023,b,11663
+Johor,2023,o,19124
+Johor,2024,a,7912
+Johor,2024,ab,1512
+Johor,2024,all,32509
+Johor,2024,b,8777
+Johor,2024,o,14308
+Kedah,2019,a,10539
+Kedah,2019,ab,2869
+Kedah,2019,all,42506
+Kedah,2019,b,11979
+Kedah,2019,o,17119
+Kedah,2020,a,4647
+Kedah,2020,ab,1272
+Kedah,2020,all,18876
+Kedah,2020,b,5286
+Kedah,2020,o,7671
+Kedah,2021,a,4852
+Kedah,2021,ab,1234
+Kedah,2021,all,19946
+Kedah,2021,b,5692
+Kedah,2021,o,8168
+Kedah,2022,a,5211
+Kedah,2022,ab,1327
+Kedah,2022,all,21128
+Kedah,2022,b,5944
+Kedah,2022,o,8646
+Kedah,2023,a,5420
+Kedah,2023,ab,1345
+Kedah,2023,all,21564
+Kedah,2023,b,6044
+Kedah,2023,o,8754
+Kedah,2024,a,3742
+Kedah,2024,ab,906
+Kedah,2024,all,14909
+Kedah,2024,b,4221
+Kedah,2024,o,6040
+Kelantan,2019,a,3065
+Kelantan,2019,ab,802
+Kelantan,2019,all,11583
+Kelantan,2019,b,3047
+Kelantan,2019,o,4669
+Kelantan,2020,a,3401
+Kelantan,2020,ab,865
+Kelantan,2020,all,12757
+Kelantan,2020,b,3364
+Kelantan,2020,o,5127
+Kelantan,2021,a,3144
+Kelantan,2021,ab,919
+Kelantan,2021,all,12095
+Kelantan,2021,b,3210
+Kelantan,2021,o,4822
+Kelantan,2022,a,4042
+Kelantan,2022,ab,1010
+Kelantan,2022,all,15060
+Kelantan,2022,b,3838
+Kelantan,2022,o,6169
+Kelantan,2023,a,4424
+Kelantan,2023,ab,1109
+Kelantan,2023,all,16716
+Kelantan,2023,b,4544
+Kelantan,2023,o,6639
+Kelantan,2024,a,3613
+Kelantan,2024,ab,902
+Kelantan,2024,all,13574
+Kelantan,2024,b,3491
+Kelantan,2024,o,5568
+Kuala Lumpur,2019,a,50199
+Kuala Lumpur,2019,ab,11352
+Kuala Lumpur,2019,all,198506
+Kuala Lumpur,2019,b,53932
+Kuala Lumpur,2019,o,83011
+Kuala Lumpur,2020,a,42860
+Kuala Lumpur,2020,ab,9498
+Kuala Lumpur,2020,all,169941
+Kuala Lumpur,2020,b,45794
+Kuala Lumpur,2020,o,71778
+Kuala Lumpur,2021,a,43324
+Kuala Lumpur,2021,ab,9262
+Kuala Lumpur,2021,all,173967
+Kuala Lumpur,2021,b,47710
+Kuala Lumpur,2021,o,73659
+Kuala Lumpur,2022,a,50271
+Kuala Lumpur,2022,ab,10614
+Kuala Lumpur,2022,all,202413
+Kuala Lumpur,2022,b,54974
+Kuala Lumpur,2022,o,86537
+Kuala Lumpur,2023,a,51695
+Kuala Lumpur,2023,ab,10513
+Kuala Lumpur,2023,all,206288
+Kuala Lumpur,2023,b,56007
+Kuala Lumpur,2023,o,88058
+Kuala Lumpur,2024,a,36714
+Kuala Lumpur,2024,ab,7567
+Kuala Lumpur,2024,all,146005
+Kuala Lumpur,2024,b,39298
+Kuala Lumpur,2024,o,62412
+Melaka,2019,a,7791
+Melaka,2019,ab,1835
+Melaka,2019,all,30233
+Melaka,2019,b,7789
+Melaka,2019,o,12818
+Melaka,2020,a,7072
+Melaka,2020,ab,1690
+Melaka,2020,all,27536
+Melaka,2020,b,7316
+Melaka,2020,o,11458
+Melaka,2021,a,7082
+Melaka,2021,ab,1788
+Melaka,2021,all,27956
+Melaka,2021,b,7471
+Melaka,2021,o,11615
+Melaka,2022,a,7676
+Melaka,2022,ab,1795
+Melaka,2022,all,30510
+Melaka,2022,b,8114
+Melaka,2022,o,12925
+Melaka,2023,a,7280
+Melaka,2023,ab,1755
+Melaka,2023,all,28445
+Melaka,2023,b,7532
+Melaka,2023,o,11877
+Melaka,2024,a,5192
+Melaka,2024,ab,1332
+Melaka,2024,all,20688
+Melaka,2024,b,5518
+Melaka,2024,o,8646
+Negeri Sembilan,2019,a,4463
+Negeri Sembilan,2019,ab,1082
+Negeri Sembilan,2019,all,18306
+Negeri Sembilan,2019,b,4965
+Negeri Sembilan,2019,o,7796
+Negeri Sembilan,2020,a,3988
+Negeri Sembilan,2020,ab,983
+Negeri Sembilan,2020,all,16398
+Negeri Sembilan,2020,b,4528
+Negeri Sembilan,2020,o,6899
+Negeri Sembilan,2021,a,3609
+Negeri Sembilan,2021,ab,858
+Negeri Sembilan,2021,all,14935
+Negeri Sembilan,2021,b,4071
+Negeri Sembilan,2021,o,6397
+Negeri Sembilan,2022,a,3973
+Negeri Sembilan,2022,ab,770
+Negeri Sembilan,2022,all,15917
+Negeri Sembilan,2022,b,4240
+Negeri Sembilan,2022,o,6934
+Negeri Sembilan,2023,a,4052
+Negeri Sembilan,2023,ab,857
+Negeri Sembilan,2023,all,16417
+Negeri Sembilan,2023,b,4378
+Negeri Sembilan,2023,o,7130
+Negeri Sembilan,2024,a,2956
+Negeri Sembilan,2024,ab,591
+Negeri Sembilan,2024,all,11891
+Negeri Sembilan,2024,b,3245
+Negeri Sembilan,2024,o,5099
+Pahang,2019,a,3872
+Pahang,2019,ab,1035
+Pahang,2019,all,15810
+Pahang,2019,b,4447
+Pahang,2019,o,6456
+Pahang,2020,a,5720
+Pahang,2020,ab,1379
+Pahang,2020,all,22155
+Pahang,2020,b,6270
+Pahang,2020,o,8786
+Pahang,2021,a,5767
+Pahang,2021,ab,1440
+Pahang,2021,all,22828
+Pahang,2021,b,6382
+Pahang,2021,o,9239
+Pahang,2022,a,6069
+Pahang,2022,ab,1459
+Pahang,2022,all,23851
+Pahang,2022,b,6613
+Pahang,2022,o,9708
+Pahang,2023,a,5801
+Pahang,2023,ab,1342
+Pahang,2023,all,22803
+Pahang,2023,b,6395
+Pahang,2023,o,9263
+Pahang,2024,a,4320
+Pahang,2024,ab,959
+Pahang,2024,all,16957
+Pahang,2024,b,4733
+Pahang,2024,o,6945
+Penang,2019,a,10885
+Penang,2019,ab,2803
+Penang,2019,all,43448
+Penang,2019,b,11353
+Penang,2019,o,18407
+Penang,2020,a,9035
+Penang,2020,ab,2202
+Penang,2020,all,36512
+Penang,2020,b,9807
+Penang,2020,o,15468
+Penang,2021,a,8717
+Penang,2021,ab,2077
+Penang,2021,all,35211
+Penang,2021,b,9527
+Penang,2021,o,14890
+Penang,2022,a,9593
+Penang,2022,ab,2344
+Penang,2022,all,38420
+Penang,2022,b,10333
+Penang,2022,o,16150
+Penang,2023,a,10235
+Penang,2023,ab,2597
+Penang,2023,all,41633
+Penang,2023,b,11319
+Penang,2023,o,17482
+Penang,2024,a,7459
+Penang,2024,ab,1947
+Penang,2024,all,30421
+Penang,2024,b,8171
+Penang,2024,o,12843
+Perak,2019,a,10353
+Perak,2019,ab,2572
+Perak,2019,all,41032
+Perak,2019,b,11161
+Perak,2019,o,16946
+Perak,2020,a,9919
+Perak,2020,ab,2558
+Perak,2020,all,40086
+Perak,2020,b,10924
+Perak,2020,o,16685
+Perak,2021,a,10380
+Perak,2021,ab,2590
+Perak,2021,all,43151
+Perak,2021,b,11602
+Perak,2021,o,18578
+Perak,2022,a,11525
+Perak,2022,ab,2883
+Perak,2022,all,46498
+Perak,2022,b,12674
+Perak,2022,o,19414
+Perak,2023,a,11565
+Perak,2023,ab,2789
+Perak,2023,all,46920
+Perak,2023,b,12962
+Perak,2023,o,19601
+Perak,2024,a,8201
+Perak,2024,ab,1982
+Perak,2024,all,33129
+Perak,2024,b,8994
+Perak,2024,o,13950
+Sabah,2019,a,8121
+Sabah,2019,ab,1686
+Sabah,2019,all,36156
+Sabah,2019,b,8678
+Sabah,2019,o,17671
+Sabah,2020,a,7575
+Sabah,2020,ab,1685
+Sabah,2020,all,34069
+Sabah,2020,b,8237
+Sabah,2020,o,16572
+Sabah,2021,a,6834
+Sabah,2021,ab,1472
+Sabah,2021,all,31210
+Sabah,2021,b,7540
+Sabah,2021,o,15364
+Sabah,2022,a,8035
+Sabah,2022,ab,1750
+Sabah,2022,all,35530
+Sabah,2022,b,8759
+Sabah,2022,o,16986
+Sabah,2023,a,9049
+Sabah,2023,ab,1996
+Sabah,2023,all,39826
+Sabah,2023,b,9715
+Sabah,2023,o,19064
+Sabah,2024,a,6516
+Sabah,2024,ab,1421
+Sabah,2024,all,28749
+Sabah,2024,b,6972
+Sabah,2024,o,13839
+Sarawak,2019,a,9055
+Sarawak,2019,ab,2650
+Sarawak,2019,all,37567
+Sarawak,2019,b,10829
+Sarawak,2019,o,15033
+Sarawak,2020,a,7923
+Sarawak,2020,ab,2277
+Sarawak,2020,all,33960
+Sarawak,2020,b,9684
+Sarawak,2020,o,14076
+Sarawak,2021,a,8277
+Sarawak,2021,ab,2307
+Sarawak,2021,all,35783
+Sarawak,2021,b,10286
+Sarawak,2021,o,14913
+Sarawak,2022,a,9565
+Sarawak,2022,ab,2526
+Sarawak,2022,all,40129
+Sarawak,2022,b,11388
+Sarawak,2022,o,16648
+Sarawak,2023,a,9984
+Sarawak,2023,ab,2499
+Sarawak,2023,all,41593
+Sarawak,2023,b,11922
+Sarawak,2023,o,17188
+Sarawak,2024,a,7303
+Sarawak,2024,ab,1841
+Sarawak,2024,all,30094
+Sarawak,2024,b,8472
+Sarawak,2024,o,12477
+Selangor,2019,a,6842
+Selangor,2019,ab,1810
+Selangor,2019,all,28065
+Selangor,2019,b,7576
+Selangor,2019,o,11836
+Selangor,2020,a,7117
+Selangor,2020,ab,1824
+Selangor,2020,all,29234
+Selangor,2020,b,7794
+Selangor,2020,o,12497
+Selangor,2021,a,6265
+Selangor,2021,ab,1502
+Selangor,2021,all,26094
+Selangor,2021,b,6984
+Selangor,2021,o,11340
+Selangor,2022,a,7213
+Selangor,2022,ab,1665
+Selangor,2022,all,29313
+Selangor,2022,b,7843
+Selangor,2022,o,12590
+Selangor,2023,a,7472
+Selangor,2023,ab,1557
+Selangor,2023,all,30132
+Selangor,2023,b,8290
+Selangor,2023,o,12811
+Selangor,2024,a,5482
+Selangor,2024,ab,1269
+Selangor,2024,all,22694
+Selangor,2024,b,6246
+Selangor,2024,o,9697
+Terengganu,2019,a,3931
+Terengganu,2019,ab,1164
+Terengganu,2019,all,16304
+Terengganu,2019,b,4631
+Terengganu,2019,o,6578
+Terengganu,2020,a,3769
+Terengganu,2020,ab,1083
+Terengganu,2020,all,15361
+Terengganu,2020,b,4325
+Terengganu,2020,o,6184
+Terengganu,2021,a,3955
+Terengganu,2021,ab,1156
+Terengganu,2021,all,16180
+Terengganu,2021,b,4512
+Terengganu,2021,o,6557
+Terengganu,2022,a,4466
+Terengganu,2022,ab,1251
+Terengganu,2022,all,18226
+Terengganu,2022,b,5081
+Terengganu,2022,o,7428
+Terengganu,2023,a,4686
+Terengganu,2023,ab,1398
+Terengganu,2023,all,19360
+Terengganu,2023,b,5381
+Terengganu,2023,o,7892
+Terengganu,2024,a,3571
+Terengganu,2024,ab,1042
+Terengganu,2024,all,14544
+Terengganu,2024,b,4059
+Terengganu,2024,o,5872
