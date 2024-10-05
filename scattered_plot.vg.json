@@ -1,0 +1,99 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 800,
+    "height": 600,
+    "title": {
+        "text": "Blood Donations by State and by Blood Type in Malaysia",
+        "fontSize": 20,
+        "font": "Serif"
+    },
+    "data":{
+        "url": "https://raw.githubusercontent.com/HXianH/Homework-W10/refs/heads/main/normalized_blood_donors_by_year_and_blood_type.csv",
+        "format": {
+            "type": "csv"
+        }
+    },
+    "params": [
+        {
+            "name": "blood_type_selected",
+            "bind": {
+                "input": "select",
+                "options": [null ,"all", "a", "b", "ab", "o"],
+                "labels": ["Show All","All", "A", "B", "AB", "O"],
+                "name": "Blood Type: "
+            }
+        }
+    ],
+    "selection": {
+        "state_selection": {
+            "type": "multi",
+            "fields": ["state"],
+            "bind": "legend"
+        }
+    },
+    "transform": [
+        {"filter": "blood_type_selected == null || datum.blood_type == blood_type_selected"},
+        {"calculate": "toNumber(datum.donations)", "as": "Donations"}
+    ],
+    "mark": {
+        "type": "point",
+        "filled": true,
+        "tooltip": true
+    },
+    "opacity": 0.6,
+    "encoding": {
+        "x": {
+            "field": "Donations",
+            "type": "quantitative",
+            "title": "Donations",
+            "scale": {
+                "type": "log",
+                "domain": [500, 250000]
+            },
+            "axis": {
+                "tickCount": 8  
+            }
+        },
+        "y": {
+            "field": "Donations",
+            "type": "quantitative",
+            "title": "Donations",
+            "scale": {
+                "type": "log",
+                "domain": [500, 250000]
+            },
+            "axis": {
+                "tickCount": 8  
+            }
+        },
+        "color": {
+            "field": "state",
+            "type": "nominal",
+            "title": "State",
+            "legend": {
+                "title": "State",
+                "orient": "right"
+            }
+        },
+        "size": {
+            "field": "Donations",
+            "type": "quantitative",
+            "title": "Donations Size",
+            "scale": {
+                "type": "threshold",
+                "domain": [500, 1000, 5000, 10000, 50000, 100000, 150000, 200000],
+                "range": [10, 50, 100, 150, 200, 250, 300, 350, 400] 
+            }
+        },
+        "opacity": {
+            "condition": {"selection": "state_selection", "value": 0.8},
+            "value": 0.05
+        },
+        "tooltip": [
+            {"field": "year", "type": "ordinal", "title": "Year"},
+            {"field": "state", "type": "nominal", "title": "State"},
+            {"field": "blood_type", "type": "nominal", "title": "Blood Type"},
+            {"field": "donations", "type": "quantitative", "title": "Donations"}
+        ]
+    }
+}
